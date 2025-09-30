@@ -1,7 +1,6 @@
 <?php
-// Set a constant for PI needed for Circle area
-if (!defined('M_PI')) { define('M_PI', 3.14159); }
-
+// ABELLO, JUNE VIC M.
+// BSCS 2A
 // --- Problem 1: Vehicles ---
 class Vehicle {
     public $brand;
